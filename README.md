@@ -5,6 +5,8 @@ Ejemplo básico de uso de OpenAI
 1) crear un usuario en https://openai.com/api/
 2) obtener una API Key: https://platform.openai.com/account/api-keys
 3) colocar la API Key en la variable "$open_ai_key" (linea 17)
+4) estando en el mismo directorio del script, ejecutar "composer require orhanerday/open-ai"
+5) asegurarse de que la versión de PHP es al menos 7.4
 
 # Uso
 1) ingresar en el formulario la descripción de la imagen
