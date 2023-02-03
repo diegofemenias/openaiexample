@@ -11,4 +11,5 @@ Ejemplo básico de uso de OpenAI
 2) se generarán 3 imagenes 
 
 # Notas
-El plan grauito permite crear aproximadamente 1000 imagenes sin costo. Precios: https://openai.com/api/pricing/
+1) El plan grauito permite crear aproximadamente 1000 imagenes sin costo. Precios: https://openai.com/api/pricing/
+2) El script aqui provisto es una prueba de concepto, entre otras cosas no está parametrizado, no tiene un diseño cuidado en lo más mínimo, no sigue ningún patron, ni es seguro ejecutarlo en un ambiente en producción.
